@@ -1,53 +1,57 @@
 # Site
-repository: sproogen/resume-theme
+repository: iacutetres/cv
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Enrique Martínez Colomina
+title: Software Engineer
+# email: iacutetres@gmail.com
+# website: https://iacutetres.github.io/cv/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: iacutetres
+github_username: iacutetres
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: iacutetres
+linkedin_username: emartinezcolomina
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: Info
+about_profile_image: images/profileMe.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hola, mi nombre es Quique y soy programador Java. Con experiencia de FrontEnd en Angular; HTML, CSS y SASS.
+  También integración contínua con Jenkins, Dockers desplegando servidores en AWS.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Actualmente creando aplicaciones con <mark>Spring Boot</mark> y <mark>Angular 9</mark> y mejorando las skills de <mark>DevOps</mark> y <mark>AWS</mark> con cursos y certificaciones online.
+
+  <b>Email:</b> iacutetres@gmail.com
+
+  <b>Teléfono:</b> 630968899
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projectos
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experiencia
 
 # Education Section
-# educaton_title: Education
+education_title: Educación
 
 # More Section
-# more_title: A Little More About Me
+more_title: Cursos y certificaciones
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - 2020 IT INSTITUTE : Curso Práctico Architecting on AWS 21h
+   - 2019 Universitat Politécnica de Valencia : CURSO ONLINE DE CLOUD COMPUTING CON AMAZON WEB SERVICES (AWS)
+   - 2018 Coursera : Introducción a Data Science: Programación Estadística con Lenguaje R
+
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -58,3 +62,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+# darkmode: true

@@ -1,9 +1,51 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: Florclick
+  link: florclick.com
+  job_title: CTO, Developer, DevOps
+  dates: Mayo 2020 - Present
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Digitalización de una empresa e-commerce. Creando plataforma integral de gestión de pedidos <b>whakahaus.com/why</b> integraciones Amazon MWS, Ebay. Control de entregas MRW, stocks, listados de tareas. Estadísticas y encuestas cliente final y comprador.
+
+    <b>Funciones principales</b>: Creación aplicación web con Spring Boot, Angular. Despliege con Jenkins, dockers en AWS. Base de datos relacional. Gestión de archivos en S3 para el almacenamiento de datos. Uso de Lambda de AWS para leer páginas web de entregas de MRW.
+
+
+- layout: left
+  company: Tiller Systems
+  link: tillersystems.com
+  job_title: Software Engineer
+  dates: Junio 2019 - Abril-2020
+  description: | # this will include new lines to allow paragraphs
+    Desde la delegación en Valencia como programadores con un equipo multidisciplinar de 10 personas, con la aplicación Beesniss. Gestión para restaurantes; pedidos, factuara, stock, personal, rentabilidad, análisis y estadísticas.
+
+    <b>Funciones principales</b>: Análisis y programación tanto del backend en Java como del FronEnd Angular.
+
+    Desplegando sobre Glassfish. Principalmente sobre el módulo de <mark>Escaneo de facturas</mark>, con Textract de AWS y anteriormente OCR de Google. Detección de productos, precios proveedores y alamacenamiento de los datos extraídos; previa valoración semiautomática.
+
+- layout: left
+  company: Paina Solutions
+  link: dokuflex.com
+  job_title: Programador Java
+  dates: Marzo 2017 - Mayo 2019
+  description: | # this will include new lines to allow paragraphs
+    Dokuflex es una plataforma <mark>BPM</mark> y <mark>ECM</mark> que integra toda la gestión de procesos, documentos y contenidos. Desarrollando soluciones empresariales que permiten mejorar los procesos, aumentar la productividad.
+
+    <b>Funciones principales</b>: Principalmente BackEnd y participando en el FrontEnd con el diseño de los jsp para las vistas. Comunicación directa con los clientes para los BPM y  módulos: workflows,  foros, gestión de las vacaciones, SII de AEAT, generar PDF, QR, Lucene como metabuscador; resolución de problemas.
+
+    Gestión y mantenimiento de las bases de datos MYSQL y Mongo. Despliegue Tomcat en los distintos servidores. APIs para las APPs móviles. Gestión de las mejoras y cambios de los clientes con los demás programadores y asignando las tareas.
+
+- layout: left
+  company: Caeteris Paribus
+  link: caeteris.com
+  job_title: Programador Java, Ionic,
+  dates: Septiembre 2014 – Febrero 2017
+  description: | # this will include new lines to allow paragraphs
+    Dedicados al desarrollo y mantenimiento tanto de webs como de aplicaciones móviles. En especial philomarket.com: Gestión entre restaurantes y proveedores. Aplicaciones web y móvil propia. B2B
+
+    <b>Funciones principales</b>: Análisis, diseño, desarrollo y mantenimiento de las aplicaciones. Java y JSF.
+
+    <b>Desarrollos</b>:
+      - philomarket.com : Gestión de restaurantes. Web y móvil
+      - bessniss.com : Gestión de restaurantes. Web y móvil
+      - zoes-kakebo.com : Gestión personal de gastos. Móvil

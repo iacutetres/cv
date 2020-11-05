@@ -1,8 +1,19 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Whakahaus - Gestión de pedidos
+  link: whakahaus.com
+  #github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Desarrollada con Spring Boot y Angular. Integración continua con Jenkins dokers. Sentry como monitoring
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Gestión personalizada y digitalización 360 del E-commerce con Integración con las principales plataformas y MarketPlaces.
+    A través de los módulos de la aplicación, conseguimos una eficiencia superior a la media. Tanto para la integración de los pedidos al sistema POS, como para el control en la producción y puesta en el cliente final.
+    Usada actualmente en florclick para la gestión.
+
+- layout: top-middle
+  name: Floweers - Pedidos especiales
+  link: shorturl.at/gjEHP
+  #github: sproogen/resume-theme
+  quote: >
+    Proyecto fin de ciclo. Desarrollada con Java y JSF Primefaces.
+  description: | # this will include new lines to allow paragraphs
+    Gestión de pedidos y recursos necesarios para una floristería; clientes, pedidos, productos, fechas de entrega, imágenes, graficas. Documentación e imágenes del mismo.

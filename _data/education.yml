@@ -1,10 +1,26 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: Grado superior FP
+  dates: 2012 - 2014
+  qualification: Desarrollo de Aplicaciones Web
+  # quote: >
+  #   Proyecto fin de ciclo: floweers1.0 finalizado con matricula de honor
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Grado Superior de FP Desarrollo de Aplicaciones Web en el CEED Valencia. Proyecto fin de ciclo: <mark>floweers1.0</mark> finalizado con matricula de honor.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Oficial Florista
+  dates: 2006 - 2009
+  qualification: Escuela Española de Arte Floral
+  # quote: >
+  #   Proyecto fin de ciclo: floweers1.0 finalizado con matricula de honor
+  description: | # this will include new lines to allow paragraphs
+    Curso de especialización en los conocimientos del arte floral, para la preparación de las flores, características de las mismas, proporciones en los arreglos...
+
+- layout: left
+  name: Matemáticas
+  dates: 2000 - 2004
+  qualification: Universitat de Valencia
+  # quote: >
+  #   Proyecto fin de ciclo: floweers1.0 finalizado con matricula de honor
+  description: | # this will include new lines to allow paragraphs
+    Licenciatura de Matemáticas en la Universitat de Valencia, realizados 180 créditos de 300.
