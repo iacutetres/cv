@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Whakahaus - Gestión de pedidos
-  link: whakahaus.com
+  link: http://whakahaus.com
   #github: sproogen/resume-theme
   quote: >
     Desarrollada con Spring Boot y Angular. Integración continua con Jenkins dokers. Sentry como monitoring
