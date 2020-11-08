@@ -11,7 +11,7 @@
 
 - layout: top-middle
   name: Floweers - Pedidos especiales
-  # link: shorturl.at/gjEHP
+  link: s3.eu-west-2.amazonaws.com/floweers1.0/index.html
   #github: sproogen/resume-theme
   quote: >
     Proyecto fin de ciclo. Desarrollada con Java y JSF Primefaces.
