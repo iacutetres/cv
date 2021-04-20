@@ -1,4 +1,13 @@
 - layout: left
+  name: Experto Universitario en Devops & Cloud (DEVOPS) 
+  dates: 2021 - 2021
+  qualification: UNIR
+  # quote: >
+  #   Proyecto fin de ciclo: floweers1.0 finalizado con matricula de honor
+  description: | # this will include new lines to allow paragraphs
+    Curso de especialización en DEVOPS. Conocimientos teóricos y prácticos con despliegues en AWS y Azure. 5 meses de duracion 15 ECTS. 
+
+- layout: left
   name: Grado superior FP
   dates: 2012 - 2014
   qualification: Desarrollo de Aplicaciones Web
