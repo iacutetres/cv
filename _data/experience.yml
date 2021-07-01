@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     Digitalización de una empresa e-commerce. Creando plataforma integral de gestión de pedidos <b>whakahaus.com/why</b> integraciones Amazon MWS, Ebay. Control de entregas MRW, stocks, listados de tareas. Estadísticas y encuestas cliente final y comprador.
 
-    <b>Funciones principales</b>: Creación aplicación web con Spring Boot, Angular. Despliege con Jenkins, dockers en AWS. Base de datos relacional. Gestión de archivos en S3 para el almacenamiento de datos. Uso de Lambda de AWS para leer páginas web de entregas de MRW.
+    <b>Funciones principales</b>: Creación aplicación web con Spring Boot, Angular. Despliege con Jenkins, dockers en AWS. Base de datos relacional. Gestión de archivos en S3 para el almacenamiento de datos. Uso de Lambda y SNS de AWS para email.
 
 
 - layout: left
