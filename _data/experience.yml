@@ -6,7 +6,7 @@ l- layout: left
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Digitalización de una empresa e-commerce. Creando plataforma integral de gestión de pedidos <b>whakahaus.com/why</b> integraciones Amazon Marketplace, WooCommerce. Control de entregas MRW, stocks, listados de tareas. Estadísticas y encuestas cliente final y comprador.
+    Digitalización de una empresa e-commerce. Creando plataforma integral de gestión de pedidos <b>whakahaus.com/why</b> integraciones Amazon Marketplace, Wordpress. Control de entregas MRW, stocks, listados de tareas. Estadísticas y encuestas cliente final y comprador.
 
     <b>Funciones principales</b>: Creación aplicación web con Spring Boot, Angular. Despliege con Jenkins, dockers en AWS. Base de datos relacional. Gestión de archivos en S3 para el almacenamiento de datos. Uso de Lambda y SNS de AWS para email.
 
