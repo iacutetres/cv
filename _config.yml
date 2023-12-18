@@ -24,7 +24,7 @@ linkedin_username: emartinezcolomina
 about_title: Info
 about_profile_image: images/profileMe.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Quique y soy analista programador Java y bases de datos Mysql y Mongodb.  Con experiencia de FrontEnd en Angular, JQUERY, HTML, CSS, SASS
+  Hola, mi nombre es Quique y soy analista programador Java.  Con experiencia de FrontEnd en Angular, JQUERY, HTML, CSS, SASS
   También integración contínua con Jenkins, Dockers desplegando servidores en AWS.
 
   <b>Email:</b> iacutetres@gmail.com
