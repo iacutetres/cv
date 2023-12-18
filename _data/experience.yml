@@ -1,8 +1,8 @@
 - layout: top
-  company: Dokuflex
-  link: dokuflex.com
+  company: Dokuflex <i>Junio 2021 - Actual</i>
+  #link: dokuflex.com
   job_title: Analista Programador Java
-  dates: Junio 2021 - Actual
+  #dates: Junio 2021 - Actual
   description: | # this will include new lines to allow paragraphs
     Análisis, modelización e implantación de los contenidos que ofrece la plataforma Dokuflex, con trato directo al cliente. 
     Desarrollo de los nuevos módulos y mejoras asignando las tareas a los programadores tanto de Front como de apps móviles. Documentación de módulos y su funcionamiento
