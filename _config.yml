@@ -4,17 +4,17 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Enrique Martínez Colomina
-title: Software Engineer
+title: Analista Programador en Dokuflex
 # email: iacutetres@gmail.com
 # website: https://iacutetres.github.io/cv/
 
 # Social links
-twitter_username: iacutetres
+#twitter_username: iacutetres
 github_username: iacutetres
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: iacutetres
+#instagram_username: iacutetres
 linkedin_username: emartinezcolomina
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -24,7 +24,7 @@ linkedin_username: emartinezcolomina
 about_title: Info
 about_profile_image: images/profileMe.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Quique y soy programador Java. Con experiencia de FrontEnd en Angular; HTML, CSS y SASS.
+  Hola, mi nombre es Quique y soy analista programador Java y bases de datos Mysql y Mongodb.  Con experiencia de FrontEnd en Angular, JQUERY, HTML, CSS, SASS
   También integración contínua con Jenkins, Dockers desplegando servidores en AWS.
 
   Actualmente creando aplicaciones con <mark>Spring Boot</mark> y <mark>Angular 9</mark> y mejorando las skills de <mark>DevOps</mark> y <mark>AWS</mark> con cursos y certificaciones online.
