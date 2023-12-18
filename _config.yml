@@ -3,32 +3,32 @@ repository: iacutetres/cv
 favicon: images/favicon.ico
 
 # Personal info
-name: Enrique Martínez Colomina
-title: Analista Programador en Dokuflex
+#name: Enrique Martínez Colomina
+#title: Analista Programador en Dokuflex
 # email: iacutetres@gmail.com
 # website: https://iacutetres.github.io/cv/
 
 # Social links
 #twitter_username: iacutetres
-github_username: iacutetres
+#github_username: iacutetres
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: iacutetres
-linkedin_username: emartinezcolomina
+#linkedin_username: emartinezcolomina
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-about_title: Info
-about_profile_image: images/profileMe.jpg
+#about_title: Info
+#about_profile_image: images/profileMe.jpg
 about_content: | # this will include new lines to allow paragraphs
+  <h4>Enrique Martínez Colomina</h4>
+  <b>Analista Programador en Dokuflex</b>
   Hola, mi nombre es Quique y soy analista programador Java.  Con experiencia de FrontEnd en Angular e integración contínua con Jenkins,Dockers y desplegando servidores en AWS.
 
-  <b>Email:</b> iacutetres@gmail.com
-
-  <b>Teléfono:</b> 630968899
+  <i>iacutetres@gmail.com</i> · 630968899
 
 # Projects Section
 projects_title: Projectos propios
