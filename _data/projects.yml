@@ -3,7 +3,7 @@
   link: http://whakahaus.com
   #github: sproogen/resume-theme
   quote: >
-    Desarrollada con Spring Boot y Angular. Integración continua con Jenkins dokers. Sentry como monitoring
+    Desarrollada con Spring Boot y Angular. Integración continua con Jenkins dokers. Sentry como monitoring. Despliegue en Dokers en AWS
   description: | # this will include new lines to allow paragraphs
     Gestión personalizada y digitalización 360 del E-commerce con Integración con las principales plataformas y MarketPlaces.
     A través de los módulos de la aplicación, conseguimos una eficiencia superior a la media. Tanto para la integración de los pedidos al sistema POS, como para el control en la producción y puesta en el cliente final.
@@ -14,6 +14,6 @@
   link: https://prezi.com/ctpruxeaqevx/proyecto-daw-parte-1/  <b>Documentación proyecto Fin de grado</b>
   #github: sproogen/resume-theme
   quote: >
-    Proyecto fin de ciclo. Desarrollada con Java y JSF Primefaces.
+    Proyecto fin de ciclo. Desarrollada con Java y JSF Primefaces. Despliegue en EC2 de AWS
   description: | # this will include new lines to allow paragraphs
     Gestión de pedidos y recursos necesarios para una floristería; clientes, pedidos, productos, fechas de entrega, imágenes, graficas. Documentación e imágenes del mismo.
