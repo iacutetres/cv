@@ -1,7 +1,7 @@
 - layout: top
-  company: Dokuflex <i>Junio 2021 - Actual</i>
+  company: Dokuflex
   #link: dokuflex.com
-  job_title: Analista Programador Java
+  job_title: Analista Programador Java <i>Junio 2021 - Actual</i>
   #dates: Junio 2021 - Actual
   description: | # this will include new lines to allow paragraphs
     Análisis, modelización e implantación de los contenidos que ofrece la plataforma Dokuflex, con trato directo al cliente. 
