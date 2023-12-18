@@ -7,6 +7,7 @@
     Análisis, modelización e implantación de los contenidos que ofrece la plataforma Dokuflex, con trato directo al cliente. 
     Desarrollo de los nuevos módulos y mejoras asignando las tareas a los programadores tanto de Front como de apps móviles. Documentación de módulos y su funcionamiento
     
+    Implementación de un sistema de gestión utilizando tecnologías <b>Java</b>, <b>Hibernate</b> y <b>JPA</b>.
     Gestión y mantenimiento de las bases de datos MYSQL y Mongo. Despliegue Tomcat en los distintos servidores. 
     Uso de APIs JSON-REST y documentación Swagger para las APPs móviles y demás clientes. Uso de SVN pra control de versiones.
     Gestión de las mejoras y cambios de los clientes con los demás programadores y asignando las tareas.
@@ -22,7 +23,7 @@
   description: | # this will include new lines to allow paragraphs
     Digitalización de una empresa e-commerce. Creando plataforma integral de gestión de pedidos <b>whakahaus.com/why</b> integraciones: Amazon Marketplace, Wordpress. Control de entregas MRW, stocks, listados de tareas. Estadísticas y encuestas cliente final y comprador.
     
-
+    Optimicé consultas de base de datos a través de <b>JPA</b>, mejorando significativamente el rendimiento del sistema.
     <b>Funciones principales</b>: Creación aplicación web con <mark>Spring Boot</mark>,<mark>Angular</mark>. Despliege con <mark>Jenkins</mark>, <mark>dockers</mark> en AWS. Base de datos relacional. 
     Gestión de archivos en S3 para el almacenamiento de datos. Uso de Lambda y SNS de AWS para email.
     Uso de Git pra control de versiones.
