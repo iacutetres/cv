@@ -1,12 +1,15 @@
 - layout: left
   company: Dokuflex
   link: dokuflex.com
-  job_title: Programador Java
+  job_title: Analista Programador Java
   dates: Junio 2021 - Actual
   description: | # this will include new lines to allow paragraphs
-    Análisis, modelización e implantación de los contenidos que ofrece la plataforma Dokuflex, con trato directo al cliente. Desarrollo de los nuevos módulos y mejoras asignando las tareas a los programadores tanto de Front como de apps móviles. Documentación de módulos y su funcionamiento
+    Análisis, modelización e implantación de los contenidos que ofrece la plataforma Dokuflex, con trato directo al cliente. 
+    Desarrollo de los nuevos módulos y mejoras asignando las tareas a los programadores tanto de Front como de apps móviles. Documentación de módulos y su funcionamiento
     
-    Gestión y mantenimiento de las bases de datos MYSQL y Mongo. Despliegue Tomcat en los distintos servidores. APIs para las APPs móviles. Gestión de las mejoras y cambios de los clientes con los demás programadores y asignando las tareas.
+    Gestión y mantenimiento de las bases de datos MYSQL y Mongo. Despliegue Tomcat en los distintos servidores. 
+    Uso de APIs JSON-REST y documentación Swagger para las APPs móviles y demás clientes. Uso de SVN pra control de versiones.
+    Gestión de las mejoras y cambios de los clientes con los demás programadores y asignando las tareas.
 
 
 - layout: left
@@ -18,8 +21,11 @@
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     Digitalización de una empresa e-commerce. Creando plataforma integral de gestión de pedidos <b>whakahaus.com/why</b> integraciones: Amazon Marketplace, Wordpress. Control de entregas MRW, stocks, listados de tareas. Estadísticas y encuestas cliente final y comprador.
+    
 
-    <b>Funciones principales</b>: Creación aplicación web con Spring Boot, Angular. Despliege con Jenkins, dockers en AWS. Base de datos relacional. Gestión de archivos en S3 para el almacenamiento de datos. Uso de Lambda y SNS de AWS para email.
+    <b>Funciones principales</b>: Creación aplicación web con <mark>Spring Boot</mark>,<mark>Angular</mark>. Despliege con <mark>Jenkins</mark>, <mark>dockers</mark> en AWS. Base de datos relacional. 
+    Gestión de archivos en S3 para el almacenamiento de datos. Uso de Lambda y SNS de AWS para email.
+    Uso de Git pra control de versiones.
 
 
 - layout: left
@@ -32,7 +38,9 @@
 
     <b>Funciones principales</b>: Análisis y programación tanto del backend en Java como del FronEnd Angular.
 
-    Desplegando sobre Glassfish. Principalmente sobre el módulo de <mark>Escaneo de facturas</mark>, con Textract de AWS y anteriormente OCR de Google. Detección de productos, precios proveedores y alamacenamiento de los datos extraídos; previa valoración semiautomática.
+    Desplegando sobre Glassfish. Principalmente sobre el módulo de <mark>Escaneo de facturas</mark>, con Textract de AWS y anteriormente OCR de Google.
+    Detección de productos, precios proveedores y alamacenamiento de los datos extraídos; previa valoración manual.
+    Uso de Git pra control de versiones.
 
 - layout: left
   company: Paina Solutions
