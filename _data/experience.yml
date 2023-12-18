@@ -39,7 +39,7 @@
 
     <b>Funciones principales</b>: Análisis y programación tanto del backend en Java como del FronEnd Angular.
 
-    Desplegando sobre Glassfish. Principalmente sobre el módulo de <mark>Escaneo de facturas</mark>, con Textract de AWS y anteriormente OCR de Google.
+    Desplegando sobre Glassfish. Principalmente sobre el módulo de Escaneo de facturas, con <mark>Textract de AWS</mark> y anteriormente OCR de Google.
     Detección de productos, precios proveedores y alamacenamiento de los datos extraídos; previa valoración manual.
     Uso de <b>Git</b> para control de versiones.
 
