@@ -22,7 +22,7 @@ website: https://iacutetres.github.io/cv/
 
 # About Section
 about_title: Info
-#about_profile_image: images/profileMe.jpg
+about_profile_image: images/profileMe.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, soy Quique, Analista Programador con experiencia destacada en el desarrollo de aplicaciones Java, habilidades avanzadas en Angular, y sólidos conocimientos en el manejo de bases de datos MySQL y MongoDB. 
   A lo largo de mi carrera, he participado en diversos proyectos y he adquirido experiencia en [Git, Maven, Jenkins, Dokers, AWS, API Rest, Hibernate, JPA]. 
