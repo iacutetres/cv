@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Whakahaus - Gestión de pedidos
-  link: http://3.9.151.87/why - Explicación del desarrollo
+  link: http://3.9.151.87/why 
   #github: sproogen/resume-theme
   quote: >
     Spring Boot y Angular. IC Jenkins. Sentry como monitoring. Despliegue en Dokers en AWS
@@ -11,7 +11,7 @@
 
 - layout: top-middle
   name: Floweers 1 y 2 - Pedidos especiales
-  link: https://prezi.com/ctpruxeaqevx/proyecto-daw-parte-1/  <b>Documentación proyecto Fin de grado</b>
+  link: https://prezi.com/ctpruxeaqevx/proyecto-daw-parte-1/ 
   #github: sproogen/resume-theme
   quote: >
     Proyecto fin de ciclo. Desarrollada con Java y JSF <b>Primefaces</b>. Despliegue en <b>EC2</b> de AWS
