@@ -10,8 +10,8 @@
     Usada actualmente en florclick para la gestión.
 
 - layout: top-middle
-  name: Floweers - Pedidos especiales
-  link: s3.eu-west-2.amazonaws.com/floweers1.0/index.html
+  name: Floweers 1 y 2 - Pedidos especiales
+  link: https://prezi.com/ctpruxeaqevx/proyecto-daw-parte-1/  <b>Documentación proyecto Fin de grado</b>
   #github: sproogen/resume-theme
   quote: >
     Proyecto fin de ciclo. Desarrollada con Java y JSF Primefaces.
