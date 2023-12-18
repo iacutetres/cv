@@ -2,7 +2,7 @@
   company: Dokuflex
   #link: dokuflex.com
   #job_title: Analista Programador Java  
-  dates: <b>Analista Programador Java</b>  - Junio 2021 - Actual
+  dates: <b>Analista Programador Java</b>  · Junio 2021 - Actual
   description: | # this will include new lines to allow paragraphs
     Análisis, modelización e implantación de los contenidos que ofrece la plataforma Dokuflex, con trato directo al cliente. 
     Desarrollo de los nuevos módulos y mejoras asignando las tareas a los programadores tanto de Front como de apps móviles. Documentación de módulos y su funcionamiento
@@ -15,9 +15,9 @@
 
 - layout: top
   company: Florclick
-  link: florclick.com
-  job_title: CTO, Developer, DevOps 
-  dates: <b>CTO, Developer, DevOps</b> - Mayo 2020 - Junio 2021
+  #link: florclick.com
+  #job_title: CTO, Developer, DevOps 
+  dates: <b>CTO, Developer, DevOps</b> · Mayo 2020 - Junio 2021
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
@@ -31,9 +31,9 @@
 
 - layout: top
   company: Tiller Systems
-  link: tillersystems.com
-  job_title: Software Engineer
-  dates: Junio 2019 - Abril-2020
+  #link: tillersystems.com
+  #job_title: Software Engineer
+  dates: <b>Software Engineer</b> · Junio 2019 - Abril-2020
   description: | # this will include new lines to allow paragraphs
     Desde la delegación en Valencia como programadores con un equipo multidisciplinar de 10 personas, con la aplicación Beesniss. Gestión para restaurantes; pedidos, factuara, stock, personal, rentabilidad, análisis y estadísticas.
 
@@ -45,9 +45,9 @@
 
 - layout: top
   company: Paina Solutions
-  link: dokuflex.com
-  job_title: Programador Java
-  dates: Marzo 2017 - Mayo 2019
+  #link: dokuflex.com
+  #job_title: Programador Java
+  dates: <b>Programador Java</b> · Marzo 2017 - Mayo 2019
   description: | # this will include new lines to allow paragraphs
     Dokuflex es una plataforma <mark>BPM</mark> y <mark>ECM</mark> que integra toda la gestión de procesos, documentos y contenidos. Desarrollando soluciones empresariales que permiten mejorar los procesos, aumentar la productividad.
 
@@ -55,15 +55,16 @@
 
 - layout: top
   company: Caeteris Paribus
-  link: caeteris.com
-  job_title: Programador Java, Ionic,
-  dates: Septiembre 2014 – Febrero 2017
+  #link: caeteris.com
+  #job_title: Programador Java
+  dates: <b>Programador Java</p> · Septiembre 2014 – Febrero 2017
   description: | # this will include new lines to allow paragraphs
-    Dedicados al desarrollo y mantenimiento tanto de webs como de aplicaciones móviles. En especial philomarket.com: Gestión entre restaurantes y proveedores. Aplicaciones web y móvil propia. B2B
+    Dedicados al desarrollo con <b>Maven</b>, Java Hibernate y JPA y mantenimiento tanto de webs como de aplicaciones móviles. En especial philomarket.com: Gestión entre restaurantes y proveedores. 
+    Aplicaciones web y móvil propia. B2B
 
-    <b>Funciones principales</b>: Análisis, diseño, desarrollo y mantenimiento de las aplicaciones. Java y JSF.
+    <b>Funciones principales</b>: Análisis, diseño, desarrollo y mantenimiento de las aplicaciones. Ionic para la app móvil.
 
     <b>Desarrollos</b>:
-      - philomarket.com : Gestión de restaurantes. Web y móvil
-      - bessniss.com : Gestión de restaurantes. Web y móvil
+      - philomarket.com : Gestión de restaurantes. Web Java, JSF, MSQL y móvil
+      - bessniss.com : Gestión de restaurantes. Web Java, AngularJS y móvil
       - zoes-kakebo.com : Gestión personal de gastos. Móvil
