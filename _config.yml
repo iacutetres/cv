@@ -43,6 +43,7 @@ education_title: Educación
 # More Section
 more_title: Cursos y certificaciones
 more_content: | # this will include new lines to allow paragraphs
+   - 2023 Escuela Oficial de Idiomas : Certificado Inglés B1
    - 2020 IT INSTITUTE : Curso Práctico Architecting on AWS 21h
    - 2019 Universitat Politécnica de Valencia : CURSO ONLINE DE CLOUD COMPUTING CON AMAZON WEB SERVICES (AWS)
    - 2018 Coursera : Introducción a Data Science: Programación Estadística con Lenguaje R
