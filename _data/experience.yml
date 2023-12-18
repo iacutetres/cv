@@ -9,7 +9,7 @@
     
     Implementación de un sistema de gestión utilizando tecnologías <b>Java</b>, <b>Hibernate</b> y <b>JPA</b>.
     Gestión y mantenimiento de las bases de datos MYSQL y Mongo. Despliegue Tomcat en los distintos servidores. 
-    Uso de APIs JSON-REST y documentación Swagger para las APPs móviles y demás clientes. Uso de SVN para control de versiones.
+    Uso de <b>APIs JSON-REST</b> y documentación <b>Swagger</b> para las APPs móviles y demás clientes. Uso de SVN para control de versiones.
     Gestión de las mejoras y cambios de los clientes con los demás programadores y asignando las tareas.
 
 
@@ -35,11 +35,9 @@
   #job_title: Software Engineer
   dates: <b>Software Engineer</b> · Junio 2019 - Abril-2020
   description: | # this will include new lines to allow paragraphs
-    Desde la delegación en Valencia como programadores con un equipo multidisciplinar de 10 personas, con la aplicación Beesniss. Gestión para restaurantes; pedidos, factuara, stock, personal, rentabilidad, análisis y estadísticas.
-
-    <b>Funciones principales</b>: Análisis y programación tanto del backend en Java como del FronEnd Angular.
-
-    Desplegando sobre Glassfish. Principalmente sobre el módulo de Escaneo de facturas, con <mark>Textract de AWS</mark> y anteriormente OCR de Google.
+    Desde la delegación en Valencia como programadores con un equipo multidisciplinar de 10 personas, con la aplicación Beesniss. <b>Gestión para restaurantes</b>; pedidos, facturas, stock, personal, rentabilidad, análisis y estadísticas.
+    
+    Desplegando sobre <b>Glassfish</b>. Principalmente sobre el módulo de Escaneo de facturas, con <mark>Textract de AWS</mark> y anteriormente OCR de Google.
     Detección de productos, precios proveedores y alamacenamiento de los datos extraídos; previa valoración manual.
     Uso de <b>Git</b> para control de versiones.
 
@@ -60,12 +58,6 @@
   #job_title: Programador Java
   dates: <b>Programador Java</b> · Septiembre 2014 – Febrero 2017
   description: | # this will include new lines to allow paragraphs
-    Dedicados al desarrollo con <b>Maven</b>, Java Hibernate y JPA y mantenimiento tanto de webs como de aplicaciones móviles. En especial philomarket.com: Gestión entre restaurantes y proveedores. 
-    Aplicaciones web y móvil propia. B2B
-
-    <b>Funciones principales</b>: Análisis, diseño, desarrollo y mantenimiento de las aplicaciones. Ionic para la app móvil.
-
-    <b>Desarrollos</b>:
-      - philomarket.com : Gestión de restaurantes. Web Java, JSF, MSQL y móvil
-      - bessniss.com : Gestión de restaurantes. Web Java, AngularJS y móvil
-      - zoes-kakebo.com : Gestión personal de gastos. Móvil
+    Dedicados al desarrollo con <b>Maven</b>, Java Hibernate y JPA. Gestión entre restaurantes y proveedores. Aplicaciones web y móvil propia. B2B
+    
+    Análisis, diseño, desarrollo y mantenimiento de las aplicaciones para la parte web: Java, JSF, Angular y Msql. <b>Ionic Angular</b> para la app móvil.
