@@ -51,7 +51,8 @@
   description: | # this will include new lines to allow paragraphs
     Dokuflex es una plataforma <mark>BPM</mark> y <mark>ECM</mark> que integra toda la gestión de procesos, documentos y contenidos. Desarrollando soluciones empresariales que permiten mejorar los procesos, aumentar la productividad.
 
-    <b>Funciones principales</b>: Principalmente BackEnd y participando en el FrontEnd con el diseño de los jsp para las vistas. Comunicación directa con los clientes para los BPM y  módulos: workflows,  foros, gestión de las vacaciones, SII de AEAT, generar PDF, QR, Lucene como metabuscador; resolución de problemas.
+    <b>Funciones principales</b>: Principalmente BackEnd y participando en el FrontEnd con el diseño de los <b>JSP</b> para las vistas. Comunicación directa con los clientes para los BPM.
+    <b>Módulos</b>: workflows, foros, gestión de las vacaciones, SII de AEAT, generar PDF, QR, Lucene como metabuscador; resolución de problemas.
 
 - layout: top
   company: Caeteris Paribus
