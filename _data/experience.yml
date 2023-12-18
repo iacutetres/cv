@@ -1,8 +1,19 @@
 - layout: left
+  company: Dokuflex
+  link: dokuflex.com
+  job_title: Programador Java
+  dates: Junio 2021 - Actual
+  description: | # this will include new lines to allow paragraphs
+    Análisis, modelización e implantación de los contenidos que ofrece la plataforma Dokuflex, con trato directo al cliente. Desarrollo de los nuevos módulos y mejoras asignando las tareas a los programadores tanto de Front como de apps móviles. Documentación de módulos y su funcionamiento
+    
+    Gestión y mantenimiento de las bases de datos MYSQL y Mongo. Despliegue Tomcat en los distintos servidores. APIs para las APPs móviles. Gestión de las mejoras y cambios de los clientes con los demás programadores y asignando las tareas.
+
+
+- layout: left
   company: Florclick
   link: florclick.com
   job_title: CTO, Developer, DevOps
-  dates: Mayo 2020 - Present
+  dates: Mayo 2020 - Junio 2021
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
@@ -32,8 +43,6 @@
     Dokuflex es una plataforma <mark>BPM</mark> y <mark>ECM</mark> que integra toda la gestión de procesos, documentos y contenidos. Desarrollando soluciones empresariales que permiten mejorar los procesos, aumentar la productividad.
 
     <b>Funciones principales</b>: Principalmente BackEnd y participando en el FrontEnd con el diseño de los jsp para las vistas. Comunicación directa con los clientes para los BPM y  módulos: workflows,  foros, gestión de las vacaciones, SII de AEAT, generar PDF, QR, Lucene como metabuscador; resolución de problemas.
-
-    Gestión y mantenimiento de las bases de datos MYSQL y Mongo. Despliegue Tomcat en los distintos servidores. APIs para las APPs móviles. Gestión de las mejoras y cambios de los clientes con los demás programadores y asignando las tareas.
 
 - layout: left
   company: Caeteris Paribus
